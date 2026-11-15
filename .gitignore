@@ -1,0 +1,4 @@
+# The installers are uploaded to GitHub Releases, never committed (GitHub refuses files over 100 MB).
+release-files/
+*.exe
+*.dmg
